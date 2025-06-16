@@ -40,3 +40,9 @@ Double-click the `.bat` file or run it from the command line:
 
 ```cmd
 logontracer_launcher.bat
+```
+## 👤 Author
+
+**Jacob Wilson**  
+📧 dfirvault@gmail.com
+[https://www.linkedin.com/in/jacob--wilson/](https://www.linkedin.com/in/jacob--wilson/)
